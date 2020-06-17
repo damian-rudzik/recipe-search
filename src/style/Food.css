@@ -1,0 +1,23 @@
+.recipe
+{
+    width: 45%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0.8em 1em;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+img
+{
+    width: 50%;
+
+}
+
+ol > li
+{
+    font-size: 1.2rem;
+}
